@@ -1,7 +1,7 @@
 [package]
 name = "ufo"
 version = "0.1.0"
-authors = ["dylan_DPC <dylan.dpc@gmail.com>"]
+authors = ["Dylan DPC<dylan.dpc@gmail.com>"]
 edition = "2018"
 description = "unsigned floats"
 license = "MIT or Apache-2.0"
